@@ -1,0 +1,10 @@
+# Dart
+.dart_tool/
+.packages
+build/
+pubspec.lock
+coverage/
+doc/api/
+.DS_Store
+.idea/
+.vscode/

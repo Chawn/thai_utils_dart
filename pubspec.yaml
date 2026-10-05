@@ -1,0 +1,13 @@
+name: thai_utils
+description: Thai helpers for Dart and Flutter - national ID validation, baht text, Buddhist-era dates, Thai phone numbers and digits.
+version: 0.0.1
+repository: https://github.com/Chawn/thai_utils_dart
+issue_tracker: https://github.com/Chawn/thai_utils_dart/issues
+topics: [thai, thailand]
+
+environment:
+  sdk: ^3.4.0
+
+dev_dependencies:
+  lints: ^5.0.0
+  test: ^1.25.0
